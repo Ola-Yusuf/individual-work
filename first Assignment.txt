@@ -1,0 +1,6 @@
+Answer all Question
+1. What is the difference between Git and GitHub
+2. State the function of the following command
+	a. git init
+	b. git merge branch1
+	c. git checkout master
